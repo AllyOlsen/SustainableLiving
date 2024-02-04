@@ -3,9 +3,19 @@ project:
 
 website:
   title: "SustainableLiving"
+  description: "A guide to living sustainably in college"
   navbar:
     right:
-      - about.qmd
+      - href: eating.qmd
+        text: Eating
+      - href: creating.qmd
+        text: Creating
+      - href: learning.qmd
+        text: Learning
+      - href: reusing.qmd
+        text: Reusing
+      - href: about.qmd
+        text: About
       - icon: github
         href: https://github.com/
       - icon: twitter

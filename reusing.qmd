@@ -1,0 +1,8 @@
+---
+title: "Reusing"
+#image:
+#listing:
+  #contents: posts
+---
+
+reusing...
