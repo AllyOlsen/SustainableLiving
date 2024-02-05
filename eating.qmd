@@ -1,8 +1,9 @@
 ---
 title: "Eating"
 #image:
-#listing:
-  #contents: posts
+listing:
+  contents: eatingposts
+  type: grid
 ---
 
 Eating...

@@ -1,8 +1,9 @@
 ---
 title: "Learning"
 #image:
-#listing:
-  #contents: posts
+listing:
+  contents: learningposts
+  type: grid
 ---
 
 learning...

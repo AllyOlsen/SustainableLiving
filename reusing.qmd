@@ -1,8 +1,9 @@
 ---
 title: "Reusing"
 #image:
-#listing:
-  #contents: posts
+listing:
+  contents: reusingposts
+  type: grid
 ---
 
 reusing...

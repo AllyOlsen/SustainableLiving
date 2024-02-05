@@ -1,8 +1,9 @@
 ---
 title: "Creating"
 #image:
-#listing:
-  #contents: posts
+listing:
+  contents: creatingposts
+  type: grid
 ---
 
 Creating...

@@ -2,8 +2,36 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/creatingposts/creatingpostone/index.html",
+      "/posts/eatingposts/eatingpostone/index.html",
+      "/posts/learningposts/learningpostone/index.html",
+      "/posts/reusingposts/reusingpostone/index.html",
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/eating.html",
+    "items": [
+      "/eatingposts/eatingpostone/index.html"
+    ]
+  },
+  {
+    "listing": "/reusing.html",
+    "items": [
+      "/reusingposts/reusingpostone/index.html"
+    ]
+  },
+  {
+    "listing": "/creating.html",
+    "items": [
+      "/creatingposts/creatingpostone/index.html"
+    ]
+  },
+  {
+    "listing": "/learning.html",
+    "items": [
+      "/learningposts/learningpostone/index.html"
     ]
   }
 ]

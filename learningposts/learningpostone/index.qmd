@@ -1,0 +1,8 @@
+---
+title: "Learning Post One"
+author: "Ally Olsen"
+date: "2024-02-04"
+#image: "image.jpg"
+---
+
+This is the first post in the learning category
