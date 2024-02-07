@@ -1,9 +1,10 @@
 ---
 title: "Learning"
-#image:
 listing:
   contents: learningposts
   type: grid
 ---
 
-learning...
+![](notionpicture.jpg){fig-align="center"}
+
+This may be the most important category of our sustainability journey. In what ways can we continuously expand our knowledge base and apply this new information to our actions?

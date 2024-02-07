@@ -2,10 +2,6 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/creatingposts/creatingpostone/index.html",
-      "/posts/eatingposts/eatingpostone/index.html",
-      "/posts/learningposts/learningpostone/index.html",
-      "/posts/reusingposts/reusingpostone/index.html",
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
     ]
