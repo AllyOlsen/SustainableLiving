@@ -1,10 +1,10 @@
 ---
-title: "Creating"
+title: ""
 listing:
   contents: creatingposts
   type: grid
 ---
 
-![](diywallart.jpg){fig-align="center"}
+![](pictures/diywallartCreating.png){fig-align="center"}
 
 This category could also have been called crafting, or gifting. Creating encompasses all of the items we can make. Whether this be for gifting, for our own use, or just other fun projects to become immersed in!

@@ -1,10 +1,10 @@
 ---
-title: "Reusing"
+title: ""
 listing:
   contents: reusingposts
   type: grid
 ---
 
-![](recordflowerwall.jpg){fig-align="center"}
+![](pictures/recordflowerwallReusing.png){fig-align="center"}
 
 Part of the reduce, reuse, recycle trinity, reusing encompasses taking items we all inevitably have and expanding their purpose. This may be giving them a new purpose or exploring the multifaceted use of some items, all while minimizing waste.

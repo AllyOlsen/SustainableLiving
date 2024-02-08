@@ -1,24 +1,22 @@
 ---
 title: "Sustainably Living"
-#listing:
- # contents: posts
-  #sort: "date desc"
-  #type: default
-  #categories: true
-  #sort-ui: false
-  #filter-ui: false
 page-layout: full
 title-block-banner: true
+engine: knitr
 ---
+
+![](pictures/Sustainable%20Living.png){fig-align="center"}
 
 #### What encompasses sustainability?
 
-In my daily life, four main categories came to mind when I think of sustainability.  The first being eating. This encompasses all aspects related to food. The next category is creating. There could have been many names for this section, but this portrays it the best. Third, we have learning. Arguably the most important category. Lastly, we have reusing. This is fairly common, and may be what most people think of when they think sustainability. Click on each category to explore the best ways to maximize these areas of your life!
+In my daily life, four main categories came to mind when I think of sustainability. The first being eating. This encompasses all aspects related to food. The next category is creating. There could have been many names for this section, but this portrays it the best. Third, we have learning. Arguably the most important category. Lastly, we have reusing. This is fairly common, and may be what most people think of when they think sustainability. Click on each category to explore the best ways to maximize these areas of your life!
 
-![](tomatoleaf.jpg){fig-align="left" width="328"}
+::: {layout-ncol="2"}
+[![](pictures/tomatoleafEating.png){fig-align="left"}](https://sustainablyliving.netlify.app/eating)
 
-![](diywallart.jpg){fig-align="right" width="324"}
+[![](pictures/diywallartCreating.png){fig-align="right"}](https://sustainablyliving.netlify.app/creating)
 
-![](notionpicture.jpg){fig-align="left" width="341"}
+[![](pictures/recordflowerwallReusing.png){fig-align="left"}](https://sustainablyliving.netlify.app/reusing)
 
-![](recordflowerwall.jpg){fig-align="right" width="406"}
+[![](pictures/notionLearning.png){fig-align="right"}](https://sustainablyliving.netlify.app/learning)
+:::

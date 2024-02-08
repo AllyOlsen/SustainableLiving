@@ -1,12 +1,13 @@
 ---
 title: "Passionate about sharing tips and tricks on everything that helps me live a more sustainable life."
-image: profile.jpg
 about:
   template: jolla
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/ally--olsen/
 ---
+
+![](pictures/logo.png){fig-align="center" width="300"}
 
 In 2019, "Skip the straw, save the turtles," was the phrase circling the internet. This sparked my interest and became the topic that shaped my high school experience. Once I got to college, I found many environmental roles that I quickly became immersed in. Having explored many fields throughout my time as an undergraduate, I have decided to pursue a future in law. Click the button below to read more about my journey and hear how I got to where I am today!

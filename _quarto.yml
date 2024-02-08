@@ -5,7 +5,7 @@ website:
   title: "Sustainable Living"
   description: "A guide to living sustainably in college"
   navbar:
-    #logo: 
+    logo: pictures/logo.png
     right:
       - href: eating.qmd
         text: Eating

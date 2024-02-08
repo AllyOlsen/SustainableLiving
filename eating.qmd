@@ -1,11 +1,11 @@
 ---
-title: "Eating"
+title: ""
 image: tomatoleaf.jpg
 listing:
   contents: eatingposts
   type: grid
 ---
 
-![](tomatoleaf.jpg){fig-align="center"}
+![](pictures/tomatoleafEating.png){fig-align="center"}
 
 We must eat to live, however, in what ways can we limit the waste produced from this activity? Whether that is reusing food scraps or maximizing the resources we have, there are many ways to limit waste. 
