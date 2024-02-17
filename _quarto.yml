@@ -20,7 +20,8 @@ website:
 
 format:
   html:
-    theme: quartz
+    theme: lux.scss
+    css: style.css
 
 editor: visual
 
