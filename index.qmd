@@ -1,11 +1,9 @@
 ---
-title: "Sustainable Living"
+title: "A Guide to Living Sustainably Through School"
 page-layout: full
-title-block-banner: true
+title-block-banner: pictures/abstractart.jpg
 engine: knitr
 ---
-
-![](pictures/Sustainable%20Living.png){fig-align="center"}
 
 #### What encompasses sustainability?
 
