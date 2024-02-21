@@ -1,8 +1,40 @@
 ---
-title: "Eating Post One"
+title: "Germinating Seeds"
 author: "Ally Olsen"
 date: "2024-02-04"
-#image: "image.jpg"
+image: "./pictures/plantsDayPlanted.jpg"
 ---
 
-This is the first post in the eating category.
+Learning how to germinate seeds provides a stepping stone for growing your own herbs, vegetables, and more. This can be easily done in anywhere, using a couple basic materials. Within a week, you will have the beginning sprouts of your future plants!
+
+**Materials:**
+
+-   Plastic bag
+
+-   Paper towels
+
+-   (Any) Seeds
+
+-   Water
+
+The first step in setting up your seeds for germination is taking a paper towel and running it under water. This paper towel should be about the size of the bag.
+
+After soaking the paper towel, ring out any excess water.
+
+We will then, laying the plastic bag sideways, place this towel in the bottom of our bag. The damp paper towel will cover the bottom of the bag, providing optimal growing conditions for our seeds. See the image below for proper setup.
+
+You can then scatter your seeds at the bottom of the bag. Close the bag.
+
+![Proper setup to begin germination.](/pictures/seedSetup.jpg){width="486"}
+
+After a day or two, your seeds will begin to sprout. At this point, you can add a bit more water to the bag if the paper towel appears to be drying out.
+
+![Day two.](/pictures/seedsDay2.jpg){width="353"}
+
+After a week, you seeds should have developed roots and leaves! Some seeds may take longer to sprout, while others will take less time.
+
+![Day 7.](/pictures/seedsDay3.jpg){width="348"}
+
+After they grow to a manageable size, you can plant your seeds in a pot. Once they are transplanted, be sure to water them when the soil is dry in order to allow them to thrive!
+
+Happy growing!

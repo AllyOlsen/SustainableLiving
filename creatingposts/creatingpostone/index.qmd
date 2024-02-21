@@ -1,8 +1,28 @@
 ---
-title: "Creating Post One"
+title: "Customizing Your Shoes"
 author: "Ally Olsen"
 date: "2024-02-04"
-#image: "image.jpg"
+image: "pictures/shoesFinalDesign.jpg"
 ---
 
-This is the first post in the creating category.
+Some of my favorite crafts are the ones that allow me to alter items to be more personalized. One project I have worked on recently was one that allowed me to customize my shoes. In the past, I have typically worn converse. As these are made out of canvas, they are the perfect material to either paint or embroider. Branching out from this brand, I had to find a new way to customize my shoes.
+
+Instead of altering the material by painting or embroidering it, I chose a route that was subtle, but personalized. By weaving different colors of thread through the stitching on the logo of the shoe, I was able to add a splash of color without fully altering the shoe. In the future, I will be able to remove the thread if I feel inclined to switch up the theme.
+
+The stitching on this logo was simple to trace, being a fun and easy part to customize. The first task was to thread the needle. I used sewing thread, which is thinner than embroidery floss. Once the thread was on the needle, the next step was to place the needle under the first stitch. This is my starting point. Be sure to do this carefully, as to avoid poking the needle through the fabric.
+
+![Step one, placing our needle.](/pictures/startingShoes.jpg){width="355"}
+
+Once the needle goes under the stitching, we can further pull it through. Once we near the end of the thread, we can tie a simple knot to keep the thread on the stitching.
+
+![Starting the knot.](/pictures/makingKnot.jpg){width="351"}
+
+Now that we have a knot, we can continue weaving the thread through the stitches. Always pointing the needle the same way, the thread and stitches begin to form a stripe-like pattern. We continue doing this for the entire length of the logo.
+
+![Weaving the thread through the stitching.](/pictures/tracingThreading.jpg){width="353"}
+
+If you wish to change colors midway through, or run out of thread, we can remove the needle from the thread, begin the next color in the same way we began the first, but instead of tying the thread to itself, we can tie it to the next color. A simple double knot will allow the two threads to link together.
+
+![The final product, prior to cutting the thread.](/pictures/finalKnots.jpg){width="352"}
+
+After we have the entire logo outlined, we next will cut the thread. I cut the thread down as close as possible, without allowing the possibility of the knot to unravel. To secure these knots in place, I used clear nail polish to secure them. Any clear glue will work as well. Be careful in the application, as to keep any glue off of the fabric.

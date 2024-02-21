@@ -2,8 +2,13 @@ project:
   type: website
 
 website:
+  favicon: pictures/logo.png
   title: "Sustainable Living"
   description: "A guide to living sustainably in college"
+  cookie-consent: true
+  google-analytics: 
+   tracking-id: "G-YR77Q3KCY1"
+   anonymize-ip: true
   navbar:
     logo: pictures/logo.png
     right:
@@ -21,7 +26,6 @@ website:
 format:
   html:
     theme: lux.scss
-    css: style.css
 
 editor: visual
 
