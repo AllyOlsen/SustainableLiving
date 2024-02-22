@@ -2,6 +2,7 @@
 title: ""
 listing:
   contents: reusingposts
+  fields: [image, date, title, author, description]
   type: grid
 ---
 

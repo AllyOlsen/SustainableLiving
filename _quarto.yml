@@ -22,6 +22,11 @@ website:
         text: Reusing
       - href: about.qmd
         text: About
+  page-footer: 
+    left: "Sustainably Living: A Guide To Living Sustainably Through School"
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ally--olsen/
 
 format:
   html:

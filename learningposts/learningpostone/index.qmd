@@ -2,7 +2,7 @@
 title: "Improving Your Recycling Habits"
 author: "Ally Olsen"
 date: "2024-02-08"
-image: "pictures/recyclingLogo.jpg"
+image: "/pictures/recyclingLogo.jpg"
 ---
 
 Recycling is one of the main activities promoted as being sustainable, but improperly recycling can have more negative effects than positive. We have all heard of the three main items that are recycled: paper, plastic, and glass. However, in order for these items to be properly recycled, there are a couple of rules that ensure the materials you set in the recycling bin end up getting recycled. Though daunting at first, these tasks can be easily implemented into your routine.

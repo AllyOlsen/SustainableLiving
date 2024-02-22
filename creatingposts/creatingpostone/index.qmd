@@ -2,7 +2,7 @@
 title: "Customizing Your Shoes"
 author: "Ally Olsen"
 date: "2024-02-04"
-image: "pictures/shoesFinalDesign.jpg"
+image: "/pictures/shoesFinalDesign.jpg"
 ---
 
 Some of my favorite crafts are the ones that allow me to alter items to be more personalized. One project I have worked on recently was one that allowed me to customize my shoes. In the past, I have typically worn converse. As these are made out of canvas, they are the perfect material to either paint or embroider. Branching out from this brand, I had to find a new way to customize my shoes.

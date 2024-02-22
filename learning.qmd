@@ -2,6 +2,7 @@
 title: ""
 listing:
   contents: learningposts
+  fields: [image, date, title, author, description]
   type: grid
 ---
 

@@ -2,7 +2,7 @@
 title: "Germinating Seeds"
 author: "Ally Olsen"
 date: "2024-02-04"
-image: "./pictures/plantsDayPlanted.jpg"
+image: "/pictures/plantsDayPlanted.jpg"
 ---
 
 Learning how to germinate seeds provides a stepping stone for growing your own herbs, vegetables, and more. This can be easily done in anywhere, using a couple basic materials. Within a week, you will have the beginning sprouts of your future plants!
@@ -36,5 +36,7 @@ After a week, you seeds should have developed roots and leaves! Some seeds may t
 ![Day 7.](/pictures/seedsDay3.jpg){width="348"}
 
 After they grow to a manageable size, you can plant your seeds in a pot. Once they are transplanted, be sure to water them when the soil is dry in order to allow them to thrive!
+
+![Planted sprout.](/pictures/plantsDayPlanted.jpg){width="350"}
 
 Happy growing!
