@@ -1,7 +1,7 @@
 ---
 title: "Germinating Seeds"
 author: "Ally Olsen"
-date: "2024-02-04"
+date: "2024-02-15"
 image: "/pictures/plantsDayPlanted.jpg"
 ---
 

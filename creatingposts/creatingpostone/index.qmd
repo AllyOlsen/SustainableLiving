@@ -1,7 +1,7 @@
 ---
 title: "Customizing Your Shoes"
 author: "Ally Olsen"
-date: "2024-02-04"
+date: "2024-02-16"
 image: "/pictures/shoesFinalDesign.jpg"
 ---
 
