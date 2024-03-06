@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Making Maraschino Cherries"
 author: "Ally Olsen"
 date: "2024-03-05"
 image: "/pictures/marishinoFinal.jpg"
