@@ -5,6 +5,7 @@ website:
   favicon: pictures/logo.png
   title: "Sustainable Living"
   description: "A guide to living sustainably in college"
+  bread-crumbs: true
   cookie-consent: true
   google-analytics: 
    tracking-id: "G-YR77Q3KCY1"
