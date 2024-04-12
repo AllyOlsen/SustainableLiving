@@ -4,7 +4,7 @@ image: tomatoleaf.jpg
 listing:
   contents: eatingposts
   fields: [image, date, title, author, description]
-  type: grid
+  type: default
 ---
 
 ![](pictures/tomatoleafEating.png){fig-align="center"}
