@@ -6,8 +6,11 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/ally--olsen/
+    - icon: pinterest
+      text: Pinterest
+      href: https://www.pinterest.com/SustainablyLivingg/ 
 ---
 
 ![](pictures/logo.png){fig-align="center" width="354"}
 
-In 2019, “Skip the straw, save the turtles,” was the phrase circling the internet. This sparked my interest and became the topic that shaped my high school experience. Once I got to college, I found many environmental roles that I quickly became immersed in. Having explored many fields throughout my time as an undergraduate, I have decided to pursue a future in law. Click the button below to read more about my journey and hear how I got to where I am today!
+In 2019, “Skip the straw, save the turtles,” was the phrase circling the internet. This sparked my interest and became the topic that shaped my high school experience. Once I got to college, I found many environmental roles that I quickly became immersed in. Having explored many fields throughout my time as an undergraduate, I have decided to pursue a future in law in order to maximize my impact. Click the button below to read more about my journey and hear how I got to where I am today!

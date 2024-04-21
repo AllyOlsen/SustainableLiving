@@ -7,20 +7,38 @@ engine: knitr
 
 #### What encompasses sustainability?
 
-In my daily life, four main categories came to mind when I think of sustainability. The first being eating. This encompasses all aspects related to food. The next category is creating. There could have been many names for this section, but this portrays it the best. Third, we have learning. Arguably the most important category. Lastly, we have reusing. This is fairly common, and may be what most people think of when they think sustainability. Click on each category to explore the best ways to maximize these areas of your life!
+In my daily life, four main categories come to mind when I think of sustainability: creating, eating, learning, and reusing. Among these categories, I hope to spread awareness of small changes that can easily be implemented into one's life in order to live more sustainably. Each category contains activities, recipes, and more information about ways to live while being conscious of our planet.
 
-::: {.card title="Eating"}
-[![](pictures/tomatoleafEating.png){fig-align="left"}](https://sustainablyliving.netlify.app/eating)
-:::
+------------------------------------------------------------------------
 
-::: {.card title="Creating"}
+Throughout my college experience I have made it a priority to increase awareness of environmental issues that face our community. Within this blog, I hope to further expand my impact and extend my knowledge to those who are interested. These activities have all become a frequent part of my routine in college, helping me reduce waste, lessen my carbon footprint, and save money.
+
+------------------------------------------------------------------------
+
+Click on each category to explore the best ways to maximize these areas of your life!
+
+::: grid
+::: g-col-6
 [![](pictures/diywallartCreating.png){fig-align="right"}](https://sustainablyliving.netlify.app/creating)
-:::
 
-::: {.card title="Reusing"}
 [![](pictures/recordflowerwallReusing.png){fig-align="left"}](https://sustainablyliving.netlify.app/reusing)
 :::
 
-::: {.card title="Learning"}
+::: g-col-6
+[![](pictures/tomatoleafEating.png){fig-align="left"}](https://sustainablyliving.netlify.app/eating)
+
 [![](pictures/notionLearning.png){fig-align="right"}](https://sustainablyliving.netlify.app/learning)
+:::
+:::
+
+::: columns
+::: {.column width="25%"}
+:::
+
+::: {.column width="50%"}
+![](pictures/artshowcase.png){fig-align="center" width="564"}
+:::
+
+::: {.column width="25%"}
+:::
 :::

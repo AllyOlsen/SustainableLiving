@@ -21,6 +21,8 @@ website:
         text: Learning
       - href: reusing.qmd
         text: Reusing
+      - href: art.qmd
+        text: Art
       - href: about.qmd
         text: About
   page-footer: 

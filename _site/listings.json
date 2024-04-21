@@ -25,15 +25,21 @@
     "listing": "/creating.html",
     "items": [
       "/creatingposts/blueberrySyrup/index.html",
-      "/creatingposts/creatingpostone/index.html",
-      "/creatingposts/threadaneedle/index.html"
+      "/creatingposts/threadaneedle/index.html",
+      "/creatingposts/creatingpostone/index.html"
     ]
   },
   {
     "listing": "/learning.html",
     "items": [
-      "/learningposts/learningpostone/index.html",
-      "/learningposts/hydroponics/index.html"
+      "/learningposts/hydroponics/index.html",
+      "/learningposts/learningpostone/index.html"
+    ]
+  },
+  {
+    "listing": "/art.html",
+    "items": [
+      "/artposts/artpostone/index.html"
     ]
   }
 ]
