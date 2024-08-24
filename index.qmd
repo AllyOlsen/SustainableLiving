@@ -11,7 +11,7 @@ In my daily life, four main categories come to mind when I think of sustainabili
 
 ------------------------------------------------------------------------
 
-Throughout my college experience I have made it a priority to increase awareness of environmental issues that face our community. Within this blog, I hope to further expand my impact and extend my knowledge to those who are interested. These activities have all become a frequent part of my routine in college, helping me reduce waste, lessen my carbon footprint, and save money.
+Throughout my college experience I have made it a priority to increase awareness of the environmental issues that face our community. Within this blog, I hope to further expand my impact and extend my knowledge to those who share a similar mission. These activities have all become a frequent part of my routine in college, helping me reduce waste, lessen my carbon footprint, and save money.
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ Click on each category to explore the best ways to maximize these areas of your 
 :::
 
 ::: {.column width="50%"}
-![](pictures/artshowcase.png){fig-align="center" width="564"}
+[![](pictures/artshowcase.png){fig-align="center" width="564"}](https://sustainablyliving.netlify.app/art)
 :::
 
 ::: {.column width="25%"}

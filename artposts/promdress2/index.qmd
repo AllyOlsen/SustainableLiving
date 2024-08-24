@@ -1,0 +1,14 @@
+---
+title: "Prom Dress"
+author: "Ally Olsen"
+date: "2024-05-06"
+image: "/pictures/bluePromDress.PNG"
+---
+
+![](/pictures/bluePromDress.PNG){width="487"}
+
+**Medium**: Fabric, thread
+
+**Process**: This piece was crafted from an original dress pattern. After drafting the pattern and cutting out panels, each piece was sewn together using a sewing machine.
+
+Many prom dresses today are purchased from large, fast-fashion chains. To combat this seemingly-inevitable pipeline, I chose to craft my own dress from a personalized pattern. Sewing my own dress resulted in a piece that was both cheaper and a perfect fit.
