@@ -12,13 +12,13 @@
       "/eatingposts/bakingBread/index.html",
       "/eatingposts/matcharecipe/index.html",
       "/eatingposts/maraschinocherries/index.html",
-      "/eatingposts/eatingpostone/index.html"
+      "/eatingposts/germinatingseeds/index.html"
     ]
   },
   {
     "listing": "/reusing.html",
     "items": [
-      "/reusingposts/reusingpostone/index.html"
+      "/reusingposts/reusejourney/index.html"
     ]
   },
   {
@@ -26,20 +26,26 @@
     "items": [
       "/creatingposts/blueberrySyrup/index.html",
       "/creatingposts/threadaneedle/index.html",
-      "/creatingposts/creatingpostone/index.html"
+      "/creatingposts/shoecustomize/index.html"
     ]
   },
   {
     "listing": "/learning.html",
     "items": [
       "/learningposts/hydroponics/index.html",
-      "/learningposts/learningpostone/index.html"
+      "/learningposts/recyclinghabits/index.html"
     ]
   },
   {
     "listing": "/art.html",
     "items": [
-      "/artposts/artpostone/index.html"
+      "/artposts/floatationdress/index.html",
+      "/artposts/wavedress/index.html",
+      "/artposts/treedress/index.html",
+      "/artposts/patchworkcardigan/index.html",
+      "/artposts/promdress2/index.html",
+      "/artposts/promdress1/index.html",
+      "/artposts/paperumbrella/index.html"
     ]
   }
 ]
