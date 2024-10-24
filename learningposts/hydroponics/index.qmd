@@ -5,20 +5,20 @@ date: "3-24-2024"
 image: "/pictures/hydroponics.jpg"
 ---
 
-Have you every heard of hydroponics? How about aquaponics? Both of these describe ways of growing plants using water. No soil, just water. But, how do they differ?
+Have you ever heard of hydroponics? What about aquaponics? Both of these terms describe ways of growing plants without soil. The plant’s root system grows in, and gets its nutrients from, water. But how do they differ?
 
-Aquaponics creates a favorable environment where plants can grow their roots into water that contains fish. As the fish eat, defecate, and recycle the nutrients throughout the tank, the plants are able to take up these nutrients through their roots.
+Aquaponics creates an environment where plants can grow their roots in water that contains fish. As the fish eat, defecate, and recycle the nutrients throughout the tank, the plants are able to take up these nutrients through their roots.
 
-Hydroponics does not utilize the help of fish. Without fish, nutrients must be artificially added to the water. The water cycles through the system, providing direct access to the water and nutrients through a plant's roots. This results in shorter roots, as they do not need to go far in order to get the food they need.
+Hydroponics does not require fish for the plants to prosper. Without fish, nutrients must be artificially added to the water. The water cycles through the system, providing direct access to the water and nutrients through a plant’s roots. This may result in longer roots because plants maximize the span of their root system to get the food they need.
 
-As well, grow lights are also typically a crucial part of these systems. Being on for 18-20 hours per day, the light allows the plants to expedite their growth in a way they would not be able to in nature. Plants typically grow faster and bigger when using hydroponics systems.
+Grow lights are a crucial part of both of these systems. Being on for 18-20 hours per day, these lights allow the plants to expedite their growth in a way they would not be able to in nature. Plants have been shown to grow faster and bigger when using hydroponics systems.
 
-You may be wondering, what types of plants can I grow using a hydroponics system? We all know that lettuce is typically grown, but are there other types of plants that thrive? Fruits and vegetables that are harvested above ground typically thrive. This includes tomatoes, peppers, and even herbs, such as basil. Vines also do well in hydroponics systems, given they have a rod or other support to climb as they grow.
+You may be wondering, what types of plants can be grown in a hydroponics system? We all know that lettuce is grown this way, but are there other types of plants that thrive? Fruits and vegetables that are harvested above ground typically thrive. This includes tomatoes, peppers, and even herbs, such as basil. Vines also do well in hydroponics systems, given they have a rod or other support to climb as they grow.
 
-Currently, I am growing loofah gourds to test how well they grow. Already, the seeds planted in the hydroponics system have grown much faster than the seeds that are living outside of it. Those that are in the hydroponics system have three times the number of leaves that those growing in a normal setting do.
+Currently, I am growing loofah gourds to test the possibility of creating a self-sustaining hydroponics system; loofah gourds would be utilized for their fibrous interior to germinate future seedlings. Already, the seeds planted within the hydroponics system have grown much faster than the seeds that are living outside of it. Those that are in the hydroponics system have three times the number of leaves that those growing in a simulated natural setting do.
 
 ![One of the radishes in the hydroponics system. Closer to 3 in. in length.](/pictures/radish.jpg){width="454"}
 
-To test whether or not it is possible, I have also chosen to grow radishes. Typically, radishes are 1-2 inches in length, and grow under soil. Without soil to grow in, our radishes look slightly misshapen. However, they have grown to maturity in less than two months. And as they have grown, they have continued to grow. Some of the radishes exceeded five inches in length.
+To test whether or not it is possible, I have also chosen to grow radishes. Typically, radishes are 1-2 inches in length, and grow under soil. Without soil to grow in, the radishes look slightly misshapen. However, they have grown to maturity in less than two months. Some of the radishes exceed five inches in length.
 
-Hydroponics provides positive implications for the future of food. It allows growers to utilize less resources, including less soil, water, and labor, and produces food faster, and in any weather. With this technology, the food of the future may be transformed forever.
+Hydroponics provides positive implications for the future of food. It allows growers to utilize less resources, including less soil, water, and labor, and this method produces food faster and in any weather. With this technology, the food of the future may be transformed forever.
