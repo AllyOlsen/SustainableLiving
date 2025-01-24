@@ -17,7 +17,7 @@ Throughout my college experience I have made it a priority to increase awareness
 
 Click on each category to explore the best ways to maximize these areas of your life!
 
-::: grid
+::::: grid
 ::: g-col-6
 [![](pictures/diywallartCreating.png){fig-align="right"}](https://sustainablyliving.netlify.app/creating)
 
@@ -29,9 +29,9 @@ Click on each category to explore the best ways to maximize these areas of your 
 
 [![](pictures/notionLearning.png){fig-align="right"}](https://sustainablyliving.netlify.app/learning)
 :::
-:::
+:::::
 
-::: columns
+:::::: columns
 ::: {.column width="25%"}
 :::
 
@@ -41,4 +41,4 @@ Click on each category to explore the best ways to maximize these areas of your 
 
 ::: {.column width="25%"}
 :::
-:::
+::::::
