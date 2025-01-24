@@ -1,0 +1,28 @@
+---
+title: "Making a T-shirt Blanket"
+author: "Ally Olsen"
+date: "2025-01-24"
+image: "/pictures/tshirtBlanket.png"
+---
+
+While cleaning out my closet, I found t-shirts that I received all the way back in Kindergarten. Since these were not shirts I wore anymore, I decided that the best approach would be to repurpose them into something that I would use: a blanket. While I have seen t-shirt blankets online, I did not like the inconsistency in colors that many of them had. To combat this issue, I created two piles: one for cold colors and one for warm colors. Below, I show the cool-toned blanket made with shades of blue, green, and black.
+
+Materials:
+
+-   T-shirts
+
+-   Fabric scissors
+
+-   Sewing machine
+
+-   Pins
+
+To begin, I ironed each t-shirt. I then cut each t-shirt into two rectangles: one made from the front of the t-shirt and one made from the back. I based the size of this rectangle on the maximum amount of fabric I could get from the smallest shirt, so I maximized the amount of fabric i was reusing while ensuring each square could be the same size. I staked pieces that were already cut out on top of one another to measure them all the same.
+
+Once I had my pieces cut out, I had two piles: one with the fronts of the shirts and one with the backs. Beginning with one pile, I started sewing pieces together. I stacked them together, the sides I wanted to be on display facing each other, and sewed a line to connect them. I continued doing this with each row, creating four rows of four strips. I then sewed each row together, following a similar fashion of placing the strips on top of one another with the nice sides facing in. I repeated this with the second pile.
+
+Once each pile created a 4x4 grid of t-shirts, I placed these pieces facing each other and sewed around three of the sides. I then flipped it inside-out. To sew the bottom side, I folded the edge in towards the inside of the blanket. I then did a straight stitch across the bottom and around the blanket's entire edge to create a nice hem and sew the bottom together properly.
+
+As you can see, an image of the final blanket is below. I am very excited by how it turned out and love the memories that can continue to persist within the blanket.
+
+![The final blanket.](/pictures/tshirtBlanket.png)

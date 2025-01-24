@@ -1,0 +1,32 @@
+---
+title: "Crocheting Mittens"
+author: "Ally Olsen"
+date: "2025-01-24"
+image: "/pictures/mittensFinal.png"
+---
+
+As winters continue to be frigid, I set out to crochet a pair of mittens. I carefully selected the wool yarn I used to ensure warmth of the finished pair. Here are the materials I used:
+
+-   Wool yarn (194 yard skein, used \~2/3)
+
+-   Crochet hook
+
+-   Scissors
+
+To begin, I crocheted a square that was 25 stitches wide by 43 tall. This was the base shape that I worked with.
+
+![Crocheting the base square.](/pictures/mittensStepOne.png){width="546"}
+
+After this was completed, I sewed the two tall ends together, leaving about a one-inch hole for the thumb.
+
+![Creating a tube and a thumb hole.](/pictures/mittensStepTwo.png){width="537"}
+
+I then wove a separate, \~5 inch piece of yarn through the stitches on the top. I pulled it tight and tied the two ends together. You can use a crochet hook or needle with a large eye to complete this step.
+
+![Cinching the top of the finger section.](/pictures/mittensStepThree.png){width="558"}
+
+Though not pictured, to create the thumb I followed the exact steps above, creating a rectangle that was 10 stitches wide by 14 stitches tall. I then sewed the two ends together to create a cylinder and cinched the top of the rectangle. After creating this shape, I sewed it on to the glove.
+
+After repeating this once more, I had two gloves. Since they were a bit too bit, and I made them out of wool, I threw them in the washing machine for about an hour to felt them together and shrink them to the right size.
+
+![Completed mittens.](/pictures/mittensFinal.png){width="548"}
