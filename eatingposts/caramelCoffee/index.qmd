@@ -5,7 +5,7 @@ date: "2025-01-24"
 image: "/pictures/caramelCoffee.jpg"
 ---
 
-I have recently begun making my own lattes at home. Making these at home keeps plastic cups out of the landfill and is also cheaper! Below is my recipe on how to make a caramel iced latte:
+I have recently begun making my own lattes at home. Making these at home keeps plastic cups out of the landfill and is also cheaper! Below is my recipe on how to make a caramel iced latte without an espresso machine:
 
 **Ingredients**:
 
@@ -18,3 +18,11 @@ I have recently begun making my own lattes at home. Making these at home keeps p
 -   1/2 cup milk of your choice
 
 -   3 tsp syrup of your choice
+
+First, I warm the 4 tbsp of water in the microwave for 10-15 seconds. It should be warm, but not boiling. I then mix in 3 tsp of syrup (to make a caramel latte, use caramel syrup) and 1 tsp of instant espresso with the water.
+
+In the cup I would like my final latte in, I put 1/2 cup of milk and 1 cup of ice. Then, I add my espresso shot on top. That is all! Optionally, you can add whip cream and caramel drizzle on top to complete the drink.
+
+A sustainable tip for reducing waste: use a reusable mug, cup, or tumbler to drink your coffee out of. When you are done with the entire jar of instant espresso or gallon of milk, check our their recycling code and see if your local recycling center accepts that type of plastic or glass. If so, rinse and dry the containers, then place them in your recycling bin to be reused!
+
+![Iced Caramel Latte](/pictures/caramelCoffee.jpg){fig-align="center" width="481"}
