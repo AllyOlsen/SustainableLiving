@@ -9,6 +9,7 @@
   {
     "listing": "/eating.html",
     "items": [
+      "/eatingposts/caramelCoffee/index.html",
       "/eatingposts/bakingBread/index.html",
       "/eatingposts/matcharecipe/index.html",
       "/eatingposts/maraschinocherries/index.html",
@@ -44,6 +45,7 @@
     "listing": "/art.html",
     "items": [
       "/artposts/englishProject/index.html",
+      "/artposts/seashellPalette/index.html",
       "/artposts/floatationdress/index.html",
       "/artposts/wavedress/index.html",
       "/artposts/treedress/index.html",
